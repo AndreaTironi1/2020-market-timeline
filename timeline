@@ -11,3 +11,31 @@ BCE Pandemic Emergency Purchase Programme (PEPP) BCE 750 miliardi
 La Federal Reserve prende il bazooka ed annuncia misure senza precedenti: la banca centrale statunitense ha infatti annunciato acquisti "illimitati" di Treasury ed altri titoli di debito delle agenzie federali oltre ad una serie di misure per sostenere l'economia e per compensare le "gravi interruzioni" causate dall'epidemia di coronavirus.
 La fed ha annunciato acquisti di titoli di stato e federali "nella quantità necessaria" facendo saltare il precedente tetto dei 700 miliardi di dollari di acquisti di bond.
 Inoltre, la Fed finanzierà programmi di sostegno agli studenti, prestiti assistiti da carte di credito, prestiti alle piccole imprese per un importo fino a 300 miliardi di dollari, oltre ad acquistare bond societari sul mercato primario e secondario offrendo un prestito ponte per un periodo di 4 anni.
+
+ Name of interest rate	country/region	current rate	direction	previous rate	change
+ American interest rate FED	United States	0.250 %		1.250 %	03-15-2020
+ Australian interest rate RBA	Australia	0.250 %		0.500 %	03-19-2020
+ Banco Central interest rate	Chile	1.000 %		1.750 %	03-16-2020
+ Bank of Korea interest rate	South Korea	0.750 %		1.250 %	03-16-2020
+ Brazilian interest rate BACEN	Brazil	3.750 %		4.250 %	03-18-2020
+ British interest rate BoE	Great Britain	0.100 %		0.250 %	03-19-2020
+ Canadian interest rate BOC	Canada	0.750 %		1.250 %	03-13-2020
+ Chinese interest rate PBC	China	4.050 %		4.150 %	02-20-2020
+ Czech interest rate CNB	Czech Republic	1.750 %		2.250 %	03-16-2020
+ Danish interest rate Nationalbanken	Denmark	0.050 %		0.200 %	01-19-2015
+ European interest rate ECB	Europe	0.000 %		0.050 %	03-10-2016
+ Hungarian interest rate	Hungary	0.900 %		1.050 %	05-24-2016
+ Indian interest rate RBI	India	5.150 %		5.400 %	10-04-2019
+ Indonesian interest rate BI	Indonesia	6.500 %		6.750 %	06-16-2016
+ Israeli interest rate BOI	Israel	0.250 %		0.100 %	11-26-2018
+ Japanese interest rate BoJ	Japan	-0.100 %		0.000 %	02-01-2016
+ Mexican interest rate Banxico	Mexico	7.000 %		7.250 %	02-13-2020
+ New Zealand interest rate	New Zealand	0.250 %		1.000 %	03-16-2020
+ Norwegian interest rate	Norway	1.000 %		1.500 %	03-13-2020
+ Polish interest rate	Poland	1.500 %		2.000 %	03-04-2015
+ Russian interest rate CBR	Russia	6.000 %		6.250 %	02-07-2020
+ Saudi Ariabian interest rate	Saudi Arabia	1.000 %		1.750 %	03-16-2020
+ South African interest rate SARB	South Africa	5.250 %		6.250 %	03-19-2020
+ Swedish interest rate Riksbank	Sweden	0.000 %		-0.250 %	12-19-2019
+ Swiss interest rate SNB	Switzerland	-0.750 %		-0.500 %	01-15-2015
+ Turkish interest rate CBRT	Turkey	10.750 %		11.250 %	02-19-2020
